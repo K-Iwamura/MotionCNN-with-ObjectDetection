@@ -2,7 +2,7 @@
 
 ## COCO
 Please download coco captions from [link](http://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip)
-and coco images from [link](http://mscoco.org/dataset/#download). We need 2014 training images and 2014 val images.
+and coco images from [2014 training images](http://images.cocodataset.org/zips/train2014.zip) and [2014 val images](http://images.cocodataset.org/zips/val2014.zip).
 
 ## Im2Flow
 You can set up Im2Flow from authors page [link](https://github.com/rhgao/Im2Flow). Then, you can apply Im2Flow to coco 2014 training images and 2014 val images.
